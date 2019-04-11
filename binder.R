@@ -1,2 +1,6 @@
 install.packages("RQDA")
-library(RQDA)
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages('leaflet')
